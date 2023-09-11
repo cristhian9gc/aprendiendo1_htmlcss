@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(206, 209, 216);
+}
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+
+a {
+    color: rgb(1, 197, 197);
+}
+
+.listas {
+    color: blue;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.enlacesxd {
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: rgb(36, 103, 148);
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+img {
+    border-style: solid;
+    border-color: rgb(0, 247, 255);
+    border-width: 2px;
+    border-radius: 20px;
+}
+
+.formulario {
+    font-size: 15px;
+    border-radius: 7px;
+}
+
+#amigos,
+#nombre {
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.comics {
+    background-color: rgb(226, 43, 43);
+    border-radius: 20px;
+}
+
+.padding-margin {
+    padding: 7px;
+    margin: 7px;
+    border-color:rgba(0, 0, 0, 0);
+}
+
+[type="checkbox"] {
+    margin: 10px;
+}
+
+#vivienda {
+    background-color: rgb(102, 219, 155);
+    border-radius: 20px;
+    color: rgb(7, 0, 66);
+}
+.vivienda_media {
+    text-align:center;
+}
+.home {
+    padding: 5px;
+    margin: 5px;
+
+}
+.smallville {
+    background-color: rgb(147, 59, 230);
+    border-radius: 20px;
+    width: 15vw;
+    font-size: 3vw;
+}
+.metropolis {
+    background-color: rgb(218, 209, 84);
+    border-radius: 20px;
+    width: 15em;
+}
